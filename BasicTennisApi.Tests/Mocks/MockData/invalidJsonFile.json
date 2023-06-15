@@ -1,0 +1,24 @@
+{
+  "player": [
+    {
+      "id": 95,
+      "firstname": "Venus",
+      "lastname": "Williams",
+      "shortname": "V.WIL",
+      "sex": "F",
+      "country": {
+        "picture": "https://data.latelier.co/training/tennis_stats/resources/USA.png",
+        "code": "USA"
+      },
+      "picture": "https://data.latelier.co/training/tennis_stats/resources/Venus.webp",
+      "data": {
+        "rank": 52,
+        "points": 1105,
+        "weight": 74000,
+        "height": 185,
+        "age": 38,
+        "last": [ 0, 1, 0, 0, 1 ]
+      }
+    }
+  ]
+}
